@@ -64,3 +64,8 @@ background-image: -ms-linear-gradient(left, #ccc, #333, #ccc);
 background-image: -o-linear-gradient(left, #ccc, #333, #ccc);
 }
 
+#all{
+    width:100%;
+    float:left;
+    text-align:center;
+}
