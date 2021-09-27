@@ -48,11 +48,3 @@ footer {
 	font-size: x-small;
 }
 
-.nav-pills > li.active > a, .nav-pills > li.active > a:focus, .nav-pills > li.active > a:hover {
-    color: white;
-    background-color: black;
-}
-
-.nav-pills a {
-color: black;
-}
